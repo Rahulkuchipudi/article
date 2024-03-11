@@ -1,0 +1,6 @@
+streamlit
+bcrypt
+scikit-learn
+wordcloud
+pandas
+matplotlib
